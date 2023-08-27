@@ -5,3 +5,8 @@ This project demonstrates a comprehensive and dynamic Business Intelligence (BI)
 **Data Cleaning Tool: "Microsoft Excel"**
 
 **Transformation and Visualization Tool: "Microsoft Power BI"**
+
+
+
+## Report & Analysis:
+
