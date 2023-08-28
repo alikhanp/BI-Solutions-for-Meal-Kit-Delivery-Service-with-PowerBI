@@ -26,10 +26,10 @@ This project demonstrates a comprehensive and dynamic Business Intelligence (BI)
 
 ## Report & Analysis:
 #### Interactive KPI Card Analysis
-![analysis1](4. Analysis Example/analysis1.gif)
+![analysis1](https://github.com/alikhanp/BI-Solutions-for-Meal-Kit-Delivery-Service-with-PowerBI/assets/86925503/5cd78812-e1ef-4ee1-b07f-8c98c941e8db)
 
 #### Gauge Chart What-If Analysis
-![analysis2](4. Analysis Example/analysis2.gif)
+![analysis2](https://github.com/alikhanp/BI-Solutions-for-Meal-Kit-Delivery-Service-with-PowerBI/assets/86925503/d048d3b5-0c60-42a7-a407-bb4932892191)
 
 #### Division Detail and Time Series Analysis
-![analysis3](4. Analysis Example/analysis3.gif)
+![analysis3](https://github.com/alikhanp/BI-Solutions-for-Meal-Kit-Delivery-Service-with-PowerBI/assets/86925503/371e7e54-a828-4dde-ba6e-67af7887e126)
