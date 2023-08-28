@@ -25,4 +25,11 @@ This project demonstrates a comprehensive and dynamic Business Intelligence (BI)
 </p>
 
 ## Report & Analysis:
-#### Entity Relationship Diagram Model
+#### Interactive KPI Card Analysis
+![analysis1](4. Analysis Example/analysis1.gif)
+
+#### Gauge Chart What-If Analysis
+![analysis2](4. Analysis Example/analysis2.gif)
+
+#### Division Detail and Time Series Analysis
+![analysis3](4. Analysis Example/analysis3.gif)
