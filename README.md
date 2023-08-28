@@ -8,5 +8,21 @@ This project demonstrates a comprehensive and dynamic Business Intelligence (BI)
 
 
 
-## Report & Analysis:
+## Data Visualization:
+#### Entity Relationship Diagram Model
+<p align="center">
+  <img src="./3. Visualization (Screenshots)/Entity Relationship Diagram Model.PNG" />
+</p>
 
+#### Dashboard
+<p align="center">
+  <img src="./3. Visualization (Screenshots)/Dashboard.PNG" />
+</p>
+
+#### Division Detail
+<p align="center">
+  <img src="./3. Visualization (Screenshots)/Division Detail.PNG" />
+</p>
+
+## Report & Analysis:
+#### Entity Relationship Diagram Model
